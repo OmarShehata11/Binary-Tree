@@ -1,6 +1,6 @@
 # Binary Tree
 
-<p> this porgram has five basices functions for the simple binary tree ;
+<p> this porgram has five basic functions for the simple binary tree :
 <ul>
 	<li>"insert" function : wich used to add elemnt to the tree</li>
 	<li>"levelorder" funcntion : which used to print the data of the elemnts in level order ( from the left side going to right side then go to the next level) </li>
